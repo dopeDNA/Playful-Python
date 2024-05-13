@@ -13,8 +13,7 @@ sorted out! 🎧💥
    - Creating a python program that
 generates random jokes because laughter is the best medicine,
 even in coding! 😆💻
-#### Join Us:
-#### In our journey of Playful Python step by step series by Dope DNA.  
+#### Join Us:- In our journey of Playful Python step by step series by Dope DNA.  
 
 
 ## $${\color{blue}Introduction}$$
