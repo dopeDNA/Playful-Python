@@ -1,5 +1,5 @@
 # Playful-Python
-#### From Noob to Ninja! 🎯
+### From Noob to Ninja! 🎯
 ![meme1](https://github.com/dopeDNA/Playful-Python/assets/169386428/a0ed37d5-f099-4e31-936c-97611195cfa8)
 #### For Beginners
 #### Join us in our journey of Playful Python
