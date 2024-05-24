@@ -23,8 +23,10 @@ even in coding! 😆💻
   
 
  ## **What is Python? 🐍**
-
-In the spotlight:
+```diff
+- In the spotlight:
+```
+  
 
 - **General Purpose Programming**: Python is like a versatile Bollywood actor, capable of playing any role from a romantic hero in web development to a daring action star in data science.
 
