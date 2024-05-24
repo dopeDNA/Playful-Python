@@ -1,3 +1,4 @@
+
 # Playful-Python
 ### From Noob to Ninja! 🎯
 ![meme1](https://github.com/dopeDNA/Playful-Python/assets/169386428/a0ed37d5-f099-4e31-936c-97611195cfa8)
@@ -16,23 +17,32 @@ even in coding! 😆💻
 ### Join Us:- In our journey of Playful Python step by step series by Dope DNA.  
 
 
-## $${\color{blue}Introduction}$$
-
+# $${\color{blue}Introduction}$$
 
 * **Python: Simple, versatile and powerful. From web to AI, it's your go-to language for any project, big or small.**
   
 
  ## **What is Python? 🐍**
-```diff
-- In the spotlight:
+ 
+ ### In the spotlight:
+
+```diff 
+- General Purpose Programming:
 ```
-  
+- Python is like a versatile Bollywood actor, capable of playing any role from a romantic hero in web development to a daring action star in data science.
 
-- **General Purpose Programming**: Python is like a versatile Bollywood actor, capable of playing any role from a romantic hero in web development to a daring action star in data science.
+ 
+```diff
+- Open Source:
+```
 
-- **Open Source**: Python's open-source nature is like an inclusive Bollywood film set, welcoming everyone to join and contribute their creativity and ideas.
+- Python's open-source nature is like an inclusive Bollywood film set, welcoming everyone to join and contribute their creativity and ideas.
 
-- **Dynamically Typed**: With Python, coding feels more like a dance sequence where you don't need to memorize every step. It's flexible and intuitive, allowing you to move with the rhythm of your creativity.
+```diff
+- Dynamically Typed:
+```
+
+- With Python, coding feels more like a dance sequence where you don't need to memorize every step. It's flexible and intuitive, allowing you to move with the rhythm of your creativity.
 
 ## **Why Python? 🌟**
 
