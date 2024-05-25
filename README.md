@@ -29,7 +29,7 @@ even in coding! 😆💻
 ```diff 
 - General Purpose Programming:
 ```
-- Python is like a versatile Bollywood actor, capable of playing any role from a romantic hero in web development to a daring action star in data science.
+  - Python is like a versatile Bollywood actor, capable of playing any role from a romantic hero in web development to a daring action star in data science.
 
  
 ```diff
