@@ -1,6 +1,8 @@
 
 # Playful-Python
-### From Noob to Ninja! 🎯
+
+# $\color{Fuchsia}{\textbf{From\ Noob\ to\ Ninja!}}$🎯
+
 ![meme1](https://github.com/dopeDNA/Playful-Python/assets/169386428/a0ed37d5-f099-4e31-936c-97611195cfa8)
 ### For Beginners
 
@@ -19,7 +21,9 @@ even in coding! 😆💻
 ***
 # $${\color{blue}Introduction}$$
 
-## **Python: Simple, versatile and powerful. From web to AI, it's your go-to language for any project, big or small.**
+
+
+### $\color{MidnightBlue}{Python:\ Simple,\ versatile\ and\ powerful.\ From\ web\ to\ AI,\ it's\ your\ go-to\ language\ for\ any\ project,\ big\ or\ small.\}$
   
 
  # ***What is Python?🐍***
